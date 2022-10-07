@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    padding-left: 0;
+}
+
+.big-title{
+    background-color:lavender;
+    color:#623e62
+}
+
+.big-title.home-title{
+    font-size: 40px;
+}
+
+.recepie-title, .big-title{
+    font-weight: 100;
+}
+
+.recepie-title{
+    background-color: lightyellow;
+    color: #623e62;
+}
